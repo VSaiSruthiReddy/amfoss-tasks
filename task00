@@ -1,1 +1,14 @@
+## Installing Install Ubuntu 22..04[Desktop]
 
+This was a really difficult task for me as I was doing it for the first time. I first tried to install on my own without any instruction but I wasnt able to install the iso file in my USB Drive. Then I asked few of my friends guidance.
+While I was installing I encountered few errors. The errors are mentioned below
+1. It booted directly to windows didnt work as dual boot
+Sol By turning off fast startup under power and options settings in control panel [windows] it worked.
+
+2. TimeZone Error/ CD Mount Error 
+Sol By not connecting to internet while setting up 
+
+3. Kernal Error 
+Sol While setting up Linux it throwed a kernal Error The solution for that was using diffrent iso file (Ubuntu 22.04) rather than Ubuntu 20.04 turns out that ISO file was corrupted.
+
+Overall it was a really good experience I enjoyed it a lot and gathered lot of information about Linux and am sure it will be really helpful in coming years.
